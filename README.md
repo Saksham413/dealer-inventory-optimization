@@ -26,3 +26,7 @@ For these problems-
 Dealers won’t have to face the problem of stock outs.
 Dealers will be able to achieve a better service ratio without increasing the costs.
 Maruti Suzuki can now set an optimum order period cycle for every dealer every SKU.
+
+
+Couldn't share any code due to company policies
+here's the report though.
