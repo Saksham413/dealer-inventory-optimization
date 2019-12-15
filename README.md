@@ -1,5 +1,7 @@
 Dealer Inventory Optimisation
+
 Data Science, Supply Chain Management
+
 May 2019 - Jul 2019
 
 Organization : Maruti Suzuki India Limited, Gurgaon
